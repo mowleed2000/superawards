@@ -1,6 +1,14 @@
-# THE SUPERPOWER PROJECT LTD: STANDING GOVERNANCE CHARTER & ETHICS PANEL TERMS OF REFERENCE
+<div align="center">
 
-| METADATA CLASSIFICATION | CORPORATE CONSTITUTION & ETHICS MANUAL |
+<img src="./assets/brand/superpower-project-logo.svg" alt="The Superpower Project" width="320" style="margin-bottom: 12px;" />
+
+### THE SUPERPOWER PROJECT LTD: CONSTITUTIONAL GOVERNANCE
+**Board of Directors • Corporate Governance Counsel • Clinical & Ethical Advisory Panel (CEAP)**  
+*Incorporated under the Companies Act 2006 (England & Wales) • Company Registration No. 15482091*
+
+---
+
+| SPECIFICATION CLASSIFICATION | CORPORATE CONSTITUTION & ETHICS MANUAL |
 | :--- | :--- |
 | **Document Reference Code** | `SPP-GOV-2026-CHARTER-002` |
 | **Version Control** | Version 4.0 (Corporate & Clinical Governance Standard) |
@@ -8,21 +16,23 @@
 | **Review Cycle** | Annual General Meeting & Standing Committee Review |
 | **Senior Responsible Owner (SRO)** | Corporate Governance Counsel & Nominated Clinical Safety Officer |
 | **Statutory Alignment** | *Companies Act 2006 (S.172)*; *Nolan Principles of Public Life*; *DCB0129 / DCB0160* |
-| **Protective Marking** | PUBLIC ENTERPRISE RECORD // CORPORATE GOVERNANCE CONSTITUTION |
+| **Protective Marking** | **PUBLIC ENTERPRISE RECORD // CORPORATE GOVERNANCE CONSTITUTION** |
 
-***
+---
+
+</div>
 
 ## SECTION 1.0: CONSTITUTIONAL MANDATE & LEGAL STRUCTURE
 
-1.1. **Corporate Entity:** The Superpower Project Ltd is a private limited company incorporated in England and Wales under company law (*Companies Act 2006*).
+**1.1.** **Corporate Entity:** The Superpower Project Ltd is a private limited company incorporated in England and Wales under company law (*Companies Act 2006*).
 
-1.2. **Section 172 Duty & Stakeholder Balancing:** In fulfilling their fiduciary obligations under Section 172 of the *Companies Act 2006*, the Directors commit to:
+**1.2.** **Section 172 Duty & Stakeholder Balancing:** In fulfilling their fiduciary obligations under Section 172 of the *Companies Act 2006*, the Directors commit to:
 * The long-term consequences of all organizational decisions on vulnerable elderly populations;
 * The emotional, psychological, and physical safety of care home residents;
 * The dignity and working conditions of frontline social care professionals;
 * The highest standards of commercial transparency, environmental care, and institutional integrity.
 
-1.3. **The Nolan Principles of Public Life:** Although a private enterprise, the Organization formally adopts the Seven Nolan Principles of Public Life across all executive operations: *Selflessness, Integrity, Objectivity, Accountability, Openness, Honesty, and Leadership*.
+**1.3.** **The Nolan Principles of Public Life:** Although a private enterprise, the Organization formally adopts the Seven Nolan Principles of Public Life across all executive operations: *Selflessness, Integrity, Objectivity, Accountability, Openness, Honesty, and Leadership*.
 
 ***
 
@@ -63,6 +73,31 @@ The CEAP functions as an independent consultative and oversight body. Its standi
 
 ## SECTION 3.0: CONFLICT OF INTEREST & WHISTLEBLOWING POLICY
 
-3.1. **Strict Conflict of Interest Registry:** All directors, advisors, and staff must declare financial, personal, or commercial interests in partner care homes, software vendors, or commercial suppliers.
+**3.1.** **Strict Conflict of Interest Registry:** All directors, advisors, and staff must declare financial, personal, or commercial interests in partner care homes, software vendors, or commercial suppliers.
 
-3.2. **Whistleblower Protections:** In full compliance with the *Public Interest Disclosure Act 1998 (PIDA 1998)*, any employee or contractor who reports safeguarding negligence, clinical non-compliance, or financial irregularity is guaranteed complete anonymity and legal protection against detrimental treatment.
+**3.2.** **Whistleblower Protections:** In full compliance with the *Public Interest Disclosure Act 1998 (PIDA 1998)*, any employee or contractor who reports safeguarding negligence, clinical non-compliance, or financial irregularity is guaranteed complete anonymity and legal protection against detrimental treatment.
+
+***
+
+<div align="center">
+
+---
+
+### CORPORATE GOVERNANCE & ETHICAL OVERSIGHT FOOTER
+
+**THE SUPERPOWER PROJECT LTD**  
+*Executive Governance Chambers: 124 City Road, London, EC1V 2NX, United Kingdom*  
+*Registered in England & Wales • Company No. 15482091 • ICO Registration No. ZB684920*
+
+| CONSTITUTIONAL GOVERNANCE PILLAR | STATUTORY / ETHICAL BENCHMARK |
+| :--- | :--- |
+| **Director Fiduciary Duties** | Companies Act 2006 Section 172 • Stakeholder Primacy Mandate |
+| **Public Ethics Framework** | Committee on Standards in Public Life • Seven Nolan Principles |
+| **Whistleblowing Safeguard** | Public Interest Disclosure Act 1998 (PIDA) • Zero-Retaliation Policy |
+| **Clinical Safety Oversight** | Independent Clinical & Ethical Advisory Panel (CEAP) Veto Jurisdiction |
+
+*Standing Governance Charter. © 2026 The Superpower Project Ltd. All Rights Reserved.*
+
+---
+
+</div>

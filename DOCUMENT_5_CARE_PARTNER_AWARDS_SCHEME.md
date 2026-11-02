@@ -1,6 +1,14 @@
-# THE SUPERPOWER STANDARDS BOARD: ANNUAL CARE PARTNER RECOGNITION & QUALITY ACCREDITATION SCHEME
+<div align="center">
 
-| METADATA CLASSIFICATION | CORPORATE STANDARDS & RECOGNITION SPECIFICATION |
+<img src="./assets/brand/superpower-project-logo.svg" alt="The Superpower Project" width="320" style="margin-bottom: 12px;" />
+
+### THE SUPERPOWER STANDARDS BOARD (SSB)
+**Care Partner Recognition, Quality Accreditation & Provider Distinction Directorate**  
+*An Internal Quality Oversight Panel of The Superpower Project Ltd (England & Wales)*
+
+---
+
+| SPECIFICATION CLASSIFICATION | CORPORATE STANDARDS & RECOGNITION SPECIFICATION |
 | :--- | :--- |
 | **Document Reference Code** | `SPP-SSB-2026-AWD-001` |
 | **Version Control** | Version 3.0 (Operational Care Partner Release) |
@@ -8,17 +16,19 @@
 | **Review Cycle** | Annual Statutory & Ethics Audit (Next Due: January 2027) |
 | **Senior Responsible Owner (SRO)** | Chair of the Superpower Standards Board & Clinical Advisory Panel |
 | **Legal Status** | Proprietary Quality Standard & Provider Distinction Framework |
-| **Protective Marking** | PUBLIC ENTERPRISE RECORD // PROVIDER GOVERNANCE MANUAL |
+| **Protective Marking** | **PUBLIC ENTERPRISE RECORD // PROVIDER GOVERNANCE MANUAL** |
 
-***
+---
+
+</div>
 
 ## SECTION 1.0: INSTITUTIONAL PURPOSE & TRANSPARENCY MANDATE
 
-1.1. **The Superpower Standards Board (SSB)** operates as the internal clinical, ethical, and quality governance committee of The Superpower Project Ltd. The Board is composed of senior clinical advisors, registered social care governance professionals, safeguarding leads, and non-clinical facilitators.
+**1.1.** **The Superpower Standards Board (SSB)** operates as the internal clinical, ethical, and quality governance committee of The Superpower Project Ltd. The Board is composed of senior clinical advisors, registered social care governance professionals, safeguarding leads, and non-clinical facilitators.
 
-1.2. **Absolute Transparency Mandate:** In strict adherence to UK consumer protection law (*Consumer Protection from Unfair Trading Regulations 2008*) and corporate governance standards, this Recognition Scheme operates transparently as an **internal, proprietary quality distinction program**. Under no circumstances does the Board represent itself as a statutory government agency, an arm of the Care Quality Commission (CQC), or a Royal Charter body. All honors, seals, and accreditations conferred under this scheme denote verified operational compliance with The Superpower Project’s published standards of excellence.
+**1.2.** **Absolute Transparency Mandate:** In strict adherence to UK consumer protection law (*Consumer Protection from Unfair Trading Regulations 2008*) and corporate governance standards, this Recognition Scheme operates transparently as an **internal, proprietary quality distinction program**. Under no circumstances does the Board represent itself as a statutory government agency, an arm of the Care Quality Commission (CQC), or a Royal Charter body. All honors, seals, and accreditations conferred under this scheme denote verified operational compliance with The Superpower Project’s published standards of excellence.
 
-1.3. **Purpose of Distinction:** The Scheme exists exclusively to recognize, validate, and celebrate **client care homes, regional care groups, individual care professionals, and community partner organizations** that achieve outstanding benchmarks in resident dignity, non-pharmacological reminiscence integration, and technological invisibility.
+**1.3.** **Purpose of Distinction:** The Scheme exists exclusively to recognize, validate, and celebrate **client care homes, regional care groups, individual care professionals, and community partner organizations** that achieve outstanding benchmarks in resident dignity, non-pharmacological reminiscence integration, and technological invisibility.
 
 ***
 
@@ -120,6 +130,31 @@
 +-----------------------------------+----------------------------------------------------------------+
 ```
 
-3.1. All applications for recognition are reviewed by the Standing Standards Panel. 
+**3.1.** All applications for recognition are reviewed by the Standing Standards Panel. 
 
-3.2. Awards and seals cannot be purchased or guaranteed through commercial retainers; they are conferred strictly on verifiable operational merit and compliance data.
+**3.2.** Awards and seals cannot be purchased or guaranteed through commercial retainers; they are conferred strictly on verifiable operational merit and compliance data.
+
+***
+
+<div align="center">
+
+---
+
+### SUPERPOWER STANDARDS BOARD ATTESTATION FOOTER
+
+**THE SUPERPOWER STANDARDS BOARD (SSB)**  
+*Clinical & Operational Standards Secretariat: 124 City Road, London, EC1V 2NX, United Kingdom*  
+*A Division of The Superpower Project Ltd • Registered in England & Wales (No. 15482091)*
+
+| STANDARDS GOVERNANCE BENCHMARK | PROTOCOL DETAILS |
+| :--- | :--- |
+| **Conferring Jurisdiction** | Proprietary Quality Benchmark Scheme (United Kingdom Care Sector) |
+| **Anti-Commercial Bias Rule** | Discretionary Merit-Based Awards • Commercial Retainers Barred from Buying Accreditations |
+| **Audit Verification** | Superpower Clinical & Ethical Advisory Panel (CEAP) Independent Review |
+| **Statutory Notice** | Independent Provider Accreditation Standard • Not an Instrument of the CQC |
+
+*Care Partner Recognition & Quality Scheme. © 2026 The Superpower Standards Board. All Rights Reserved.*
+
+---
+
+</div>

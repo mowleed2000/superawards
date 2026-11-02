@@ -1,14 +1,24 @@
-# THE AUDIT-READY INSPECTION PACK: TEMPLATES, INSTRUMENTS & CLINICAL AUDIT FORMS
+<div align="center">
 
-| METADATA CLASSIFICATION | OPERATIONAL CLINICAL & REGULATORY TOOLKIT |
+<img src="./assets/brand/superpower-project-logo.svg" alt="The Superpower Project" width="320" style="margin-bottom: 12px;" />
+
+### THE SUPERPOWER PROJECT LTD: OPERATIONAL CLINICAL FORMS
+**Turnkey CQC Single Assessment Framework Inspection Pack & Resident Care File Appendices**  
+*Standard Operating Procedures • Infection Prevention & Control • Mental Capacity Act 2005*
+
+---
+
+| SPECIFICATION CLASSIFICATION | OPERATIONAL CLINICAL & REGULATORY TOOLKIT |
 | :--- | :--- |
 | **Document Reference Code** | `SPP-CQC-2026-FORM-KIT` |
 | **Version Control** | Version 5.0 (Field Operations & Statutory Inspection Pack) |
 | **Effective Date** | 1 January 2026 |
 | **Audited Authority** | Care Quality Commission (CQC) Single Assessment Framework Inspectors |
-| **Protective Marking** | COMMERCIAL // REGISTERED MANAGER CLINICAL AUDIT DOSSIER |
+| **Protective Marking** | **COMMERCIAL // REGISTERED MANAGER CLINICAL AUDIT DOSSIER** |
 
-***
+---
+
+</div>
 
 ## SECTION 1.0: MASTER INVENTORY OF PRODUCTION FORMS
 
@@ -153,3 +163,28 @@ INSPECTION EVIDENCE SUMMARY:
 Registered Manager Name: _______________________________  Signature: _______________________________
 Date Submitted into Inspection File: ____/____/2026
 ```
+
+***
+
+<div align="center">
+
+---
+
+### OPERATIONAL FIELD TOOLKIT ATTESTATION FOOTER
+
+**THE SUPERPOWER PROJECT LTD: CLINICAL AUDIT SERVICES**  
+*Field Operations Directorate: 124 City Road, London, EC1V 2NX, United Kingdom*  
+*Registered in England & Wales • Company No. 15482091 • ICO Registration No. ZB684920*
+
+| FIELD PROTOCOL METRIC | STATUTORY CONFORMITY |
+| :--- | :--- |
+| **Form A-01 (Environmental Safety)** | IPC Code of Practice (Health & Social Care Act 2008) • HSE Risk Compliant |
+| **Form B-02 (Statutory Consent)** | Mental Capacity Act 2005 Sections 1–4 • OPG Lasting Power of Attorney Validated |
+| **Form C-03 (Affect Scale)** | Bradford Dementia Group Wellbeing Profiling System • NICE NG97 Aligned |
+| **Form D-04 (Governance Briefing)** | Health and Social Care Act 2008 Regulations 9, 11, 12, 13, 17 & 18 |
+
+*Field Operations & Statutory Inspection Pack. © 2026 The Superpower Project Ltd. Authorized for Care Provider Inspection Files.*
+
+---
+
+</div>

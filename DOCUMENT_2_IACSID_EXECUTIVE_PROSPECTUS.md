@@ -1,24 +1,34 @@
-# DOCUMENT 2: THE INSTITUTE FOR APPLIED COMMERCIAL SYSTEMS & INSTITUTIONAL DIPLOMACY (IACSID) — EXECUTIVE PROSPECTUS
+<div align="center">
 
-| METADATA CLASSIFICATION | ACADEMIC & INSTITUTIONAL SPECIFICATION |
+<img src="./assets/brand/superpower-project-logo.svg" alt="The Superpower Project" width="320" style="margin-bottom: 12px;" />
+
+### THE INSTITUTE FOR APPLIED COMMERCIAL SYSTEMS & INSTITUTIONAL DIPLOMACY (IACSID)
+**Executive Development Faculty & Postgraduate Continuing Professional Development (CPD) Directorate**  
+*Operating in Association with The Superpower Project Ltd (England & Wales) • UK Register of Learning Providers Aligned*
+
+---
+
+| DOCUMENT CONTROL & CLASSIFICATION | SPECIFICATION METADATA |
 | :--- | :--- |
 | **Document Reference Code** | `IAC-PROS-2026-FCIIS-L7` |
 | **Version Control** | Version 5.1 (Executive Board Standing Release) |
 | **Effective Academic Session** | 2026/2027 Academic Year |
 | **Accrediting Authority** | Academic Council & Standing Board of Executive Examiners |
 | **Academic & Professional Level** | Level 7 Postgraduate / Executive Continuing Professional Development (CPD) |
-| **Conferred Professional Post-Nominal** | FCIIS (Fellow in Commercial Integration & Institutional Strategy) |
-| **Protective Marking** | RESTRICTED ACADEMIC CIRCULATION // TIER-1 INSTITUTIONAL PROSPECTUS |
+| **Conferred Professional Post-Nominal** | **FCIIS** (Fellow in Commercial Integration & Institutional Strategy) |
+| **Protective Marking** | **RESTRICTED ACADEMIC CIRCULATION // TIER-1 INSTITUTIONAL PROSPECTUS** |
 
-***
+---
+
+</div>
 
 ## SECTION 1.0: EXECUTIVE SUMMARY & INSTITUTIONAL CHARTER
 
-1.1. The Institute for Applied Commercial Systems & Institutional Diplomacy (IACSID) operates as an independent executive development college, policy translation institute, and enterprise governance academy. Established to bridge the operational divide between high-growth private enterprise, deep capital infrastructure, and the British public sector, IACSID trains executive founders, care group directors, and health system leaders in the arts of sovereign institutional alignment.
+**1.1.** The Institute for Applied Commercial Systems & Institutional Diplomacy (IACSID) operates as an independent executive development college, policy translation institute, and enterprise governance academy. Established to bridge the operational divide between high-growth private enterprise, deep capital infrastructure, and the British public sector, IACSID trains executive founders, care group directors, and health system leaders in the arts of sovereign institutional alignment.
 
-1.2. In an era characterized by stringent regulatory oversight, acute fiscal constraint, and structural transformations across the National Health Service and local authority adult social care directorates, conventional transactional commerce is obsolete. Sustainable, high-yield enterprise integration demands systemic fluency: the capacity to construct sovereign corporate governance structures, decipher multi-layered statutory commissioning mechanisms, navigate civil society power networks, and unlock institutional non-dilutive capital architectures.
+**1.2.** In an era characterized by stringent regulatory oversight, acute fiscal constraint, and structural transformations across the National Health Service and local authority adult social care directorates, conventional transactional commerce is obsolete. Sustainable, high-yield enterprise integration demands systemic fluency: the capacity to construct sovereign corporate governance structures, decipher multi-layered statutory commissioning mechanisms, navigate civil society power networks, and unlock institutional non-dilutive capital architectures.
 
-1.3. The *Executive Fellowship Program in Commercial Integration & Institutional Strategy* represents an intensive Level 7-equivalent executive syllabus designed exclusively for high-performing founders, Chief Executive Officers, Managing Directors, and Public Sector Commercial Directors. Successful candidates completing the four core residential and applied modules, along with a peer-defended Applied Capstone Institutional Integration Defense, are admitted to the Institute's permanent Convocation and granted the post-nominal designation **Fellow in Commercial Integration & Institutional Strategy (FCIIS)** or **Certified Commercial Integration Strategist (CCIS)**.
+**1.3.** The *Executive Fellowship Program in Commercial Integration & Institutional Strategy* represents an intensive Level 7-equivalent executive syllabus designed exclusively for high-performing founders, Chief Executive Officers, Managing Directors, and Public Sector Commercial Directors. Successful candidates completing the four core residential and applied modules, along with a peer-defended Applied Capstone Institutional Integration Defense, are admitted to the Institute's permanent Convocation and granted the post-nominal designation **Fellow in Commercial Integration & Institutional Strategy (FCIIS)** or **Certified Commercial Integration Strategist (CCIS)**.
 
 ***
 
@@ -130,8 +140,33 @@ Relying exclusively on venture capital and equity-dilutive financing can comprom
 
 ## SECTION 3.0: FELLOWSHIP ADMISSION, CERTIFICATION & CODE OF ETHICS
 
-3.1. Admission to the Fellowship is strictly evaluated by the Academic Board. Applicants must provide evidence of executive seniority within a qualifying commercial enterprise, public health body, or regulated care institution, supported by two letters of institutional sponsorship.
+**3.1.** Admission to the Fellowship is strictly evaluated by the Academic Board. Applicants must provide evidence of executive seniority within a qualifying commercial enterprise, public health body, or regulated care institution, supported by two letters of institutional sponsorship.
 
-3.2. Upon successful completion of all four modules and a formal oral defense before the Board of Examiners, the candidate is admitted to the Institute and invested with the post-nominal **Fellow in Commercial Integration & Institutional Strategy (FCIIS)**.
+**3.2.** Upon successful completion of all four modules and a formal oral defense before the Board of Examiners, the candidate is admitted to the Institute and invested with the post-nominal **Fellow in Commercial Integration & Institutional Strategy (FCIIS)**.
 
-3.3. All Fellows are bound by the Institute’s *Code of Institutional Practice*, committing to deploy commercial strategy in direct alignment with public benefit, clinical safety, participant dignity, and the sustained resilience of the United Kingdom’s health and social care infrastructure.
+**3.3.** All Fellows are bound by the Institute’s *Code of Institutional Practice*, committing to deploy commercial strategy in direct alignment with public benefit, clinical safety, participant dignity, and the sustained resilience of the United Kingdom’s health and social care infrastructure.
+
+***
+
+<div align="center">
+
+---
+
+### INSTITUTIONAL COMPLIANCE ASSURANCE & ATTESTATION FOOTER
+
+**THE INSTITUTE FOR APPLIED COMMERCIAL SYSTEMS & INSTITUTIONAL DIPLOMACY (IACSID)**  
+*Executive Faculty Suites: 124 City Road, London, EC1V 2NX, United Kingdom*  
+*Operating Division of The Superpower Project Ltd (Company No. 15482091)*
+
+| ACADEMIC & GOVERNANCE RECORD | SPECIFICATION |
+| :--- | :--- |
+| **Framework Benchmark** | Level 7 Postgraduate CPD Equivalent • QAA Level 7 Descriptors Aligned |
+| **Board of Examiners** | Senior Responsible Academic SRO & Clinical Economics Chair |
+| **Corporate Legal Jurisdiction** | Companies Act 2006 • Non-Party Campaigning & Lobbying Act 2014 Compliant |
+| **Ethical Supervision** | Superpower Clinical & Ethical Advisory Panel (CEAP) Permanent Oversight |
+
+*Official Academic Prospectus. © 2026 IACSID & The Superpower Project Ltd. All Rights Reserved.*
+
+---
+
+</div>

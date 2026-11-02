@@ -1,22 +1,32 @@
-# DOCUMENT 4: THE CQC SINGLE ASSESSMENT FRAMEWORK (SAF) & REGULATORY EVIDENCE MATRIX
+<div align="center">
 
-| METADATA CLASSIFICATION | REGULATORY COMPLIANCE DOSSIER & AUDIT MATRIX |
+<img src="./assets/brand/superpower-project-logo.svg" alt="The Superpower Project" width="320" style="margin-bottom: 12px;" />
+
+### CARE QUALITY COMMISSION (CQC) SINGLE ASSESSMENT FRAMEWORK (SAF)
+**B2B Care Provider Regulatory Compliance & Evidentiary Mapping Dossier**  
+*Dual-Mapped against the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 & NICE Guideline NG97*
+
+---
+
+| DOCUMENT CONTROL & CLASSIFICATION | SPECIFICATION METADATA |
 | :--- | :--- |
 | **Document Reference Code** | `SPP-CQC-2026-SAF-MAT` |
 | **Version Control** | Version 6.0 (Post-Single Assessment Framework Final Standard) |
 | **Effective Date** | 1 January 2026 |
 | **Review Cycle** | Continuous Regulatory Synchronization (Quarterly Cycle) |
 | **Senior Responsible Owner (SRO)** | Director of Regulatory Affairs & Former CQC Specialist Advisor |
-| **Protective Marking** | COMMERCIAL-IN-CONFIDENCE // AUDIT-READY CARE PACK |
-| **Target Publication Sub-Surface** | B2B Care Provider Regulatory Compliance Portal |
+| **Target Distribution** | Registered Managers, Nominated Individuals, Regional Quality Directors, CQC Inspectors |
+| **Protective Marking** | **COMMERCIAL-IN-CONFIDENCE // AUDIT-READY CARE PACK** |
 
-***
+---
+
+</div>
 
 ## SECTION 1.0: REGULATORY ARCHITECTURE & STATUTORY DUAL-MAPPING
 
-1.1. This Evidence Matrix provides Registered Managers, Nominated Individuals, Regional Directors, and Quality Assurance Inspectors with an authoritative, cross-mapped compliance reference demonstrating how deployment of The Superpower Project’s life-story and cognitive engagement architecture generates immediate, defensible regulatory evidence.
+**1.1.** This Evidence Matrix provides Registered Managers, Nominated Individuals, Regional Directors, and Quality Assurance Inspectors with an authoritative, cross-mapped compliance reference demonstrating how deployment of The Superpower Project’s life-story and cognitive engagement architecture generates immediate, defensible regulatory evidence.
 
-1.2. This Matrix establishes a dual-mapped compliance bridge linking:
+**1.2.** This Matrix establishes a dual-mapped compliance bridge linking:
 * The five Care Quality Commission (CQC) **Key Questions**: *Safe, Effective, Caring, Responsive, and Well-Led*;
 * The CQC **Single Assessment Framework (SAF) Quality Statements**; and
 * The statutory requirements of the **Health and Social Care Act 2008 (Regulated Activities) Regulations 2014**.
@@ -172,36 +182,25 @@
 
 ***
 
-## SECTION 3.0: SUMMARY OF EVIDENCE ARTIFACTS FOR CQC ASSESSMENTS
+<div align="center">
 
-```
-+----------------------------------------------------------------------------------------------------+
-|                         THE CQC INSPECTION PACK: MASTER EVIDENCE INVENTORY                         |
-+---------------------+---------------------------------------------+--------------------------------+
-| INSPECTION TARGET   | EVIDENCE ARTIFACT GENERATED                 | REGULATORY RELEVANCE           |
-+---------------------+---------------------------------------------+--------------------------------+
-| SAFE (Reg 12, 13)   | - Pre-Session Environmental Risk Audit      | Demonstrates clinical safety,  |
-|                     | - Hardware IPC Sanitization Certificates    | safeguarding vigilance, and    |
-|                     | - Safeguarding Zero-Incident Statements     | proactive risk management.     |
-+---------------------+---------------------------------------------+--------------------------------+
-| EFFECTIVE (Reg 9,11)| - Tripartite Statutory Consent Records      | Substantiates MCA 2005 legal   |
-|                     | - NICE NG97 Reminiscence Therapy Alignment  | compliance and evidence-based  |
-|                     | - Objective Mood/Engagement Baseline Metrics| non-pharmacological outcomes.  |
-+---------------------+---------------------------------------------+--------------------------------+
-| CARING (Reg 10)     | - Qualitative Biographical Case Studies     | Proves promotion of dignity,   |
-|                     | - Next-of-Kin / Family Impact Appraisals    | identity validation, and       |
-|                     | - Resident Autonomy Tracking Sheets         | combatting social isolation.   |
-+---------------------+---------------------------------------------+--------------------------------+
-| RESPONSIVE (Reg 9)  | - Sensory Accommodation Adjustment Records  | Proves personalized care for   |
-|                     | - Bedside Palliative Outreach Records       | physical impairments, bedbound |
-|                     | - Cultural & Protected Characteristics Logs | residents, and diverse needs.  |
-+---------------------+---------------------------------------------+--------------------------------+
-| WELL-LED (Reg 17)   | - Turnkey Staffing Zero-Burden Impact Audit | Verifies good governance, staff|
-|                     | - Consolidated Audit-Ready Inspection Pack  | optimization, and continuous   |
-|                     | - Direct CQC Inspector Compliance Briefing  | quality management systems.    |
-+---------------------+---------------------------------------------+--------------------------------+
-```
+---
 
-3.1. By incorporating this dual-mapped evidence matrix into their ongoing operational records, adult social care providers establish a robust, objective trail of regulatory compliance.
+### CQC REGULATORY AUDIT ATTESTATION FOOTER
 
-3.2. Through its structured data capture, rigorous clinical safeguards, and turnkey execution, The Superpower Project provides care providers with an auditable institutional tool that validates high-quality person-centred care, supports positive CQC assessment outcomes, and upholds the highest standards of safety, dignity, and wellbeing for every resident served.
+**THE SUPERPOWER PROJECT LTD: QUALITY & REGULATORY GOVERNANCE DIRECTORATE**  
+*Corporate Head Office: 124 City Road, London, EC1V 2NX, United Kingdom*  
+*Registered in England & Wales • Company No. 15482091 • ICO Registration No. ZB684920*
+
+| INSPECTION COMPLIANCE BENCHMARK | AUDIT EVIDENCE STATUS |
+| :--- | :--- |
+| **Regulation 9 (Person-Centred Care)** | Corroborated via Form B-02 Consent & Form C-03 Affect Profiles |
+| **Regulation 11 (Need for Consent)** | 100% MCA 2005 Validated (Tiers 1, 2 LPA, or 3 Best Interests) |
+| **Regulation 12 & 13 (Safe Care & Safeguarding)** | Enhanced DBS Cleared Facilitators • Form A-01 Risk Audits • £5M Liability |
+| **Regulation 17 & 18 (Governance & Staffing)** | Turnkey Zero-Rota Extraction • 24hr Audit Pack Delivery to Registered Manager |
+
+*Regulatory Evidence Matrix. © 2026 The Superpower Project Ltd. Prepared for UK Registered Care Providers.*
+
+---
+
+</div>
